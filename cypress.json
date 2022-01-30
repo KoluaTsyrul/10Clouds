@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://10clouds.com/",
+    "viewportHeight": 1050,
+    "viewportWidth": 1600,
+    "retries": {
+      "runMode": 1,
+      "openMode": 0
+    },
+    "video": true
+  }
+  
